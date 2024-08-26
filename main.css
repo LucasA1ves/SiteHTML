@@ -83,3 +83,15 @@ section h2{
 #economy .articles article a{
   background-color: #7a621c;
 }
+#entertainment{
+  background-color: rgba(79, 216, 240, 0.1);
+}
+#entertainment .articles article a{
+  background-color: #1f76a2;
+}
+#technology{
+  background-color: rgba(189, 131, 247, 0.1);
+}
+#technology .articles article a{
+  background-color: #63236d;
+}
